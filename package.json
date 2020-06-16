@@ -1,0 +1,17 @@
+{
+  "name": "@ethersage/kamisay",
+  "version": "0.0.1",
+  "description": "npx test kamisay",
+  "repository": {
+    "type": "git",
+    "url": "https://git@github.com/ethersage/kamisay.git"
+  },
+  "keywords": [
+    "kamisay"
+  ],
+  "author": "ethersage <jmkaminetsky@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cowsay": "1.4.0"
+  }
+}
