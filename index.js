@@ -1,4 +1,5 @@
-const { bucket, quantile } = require('@ethersage/quantile');
+const bucket = require('@ethersage/quantile').bucket;
+const quantile = require('@ethersage/quantile').quantile;
 
 console.log(
   bucket(2, [5, 6, 7, 8, 1, 2, 3, 4])); // => [[1, 2, 3, 4], [5, 6, 7, 8]],
