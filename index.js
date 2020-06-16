@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const bucket = require('@ethersage/quantile').bucket;
 const quantile = require('@ethersage/quantile').quantile;
 
