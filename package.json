@@ -2,7 +2,7 @@
   "name": "@ethersage/kamisay",
   "version": "0.0.1",
   "description": "npx test kamisay",
-  "main": "index.js",
+  "main": "./index",
   "bin": {
     "kamisay": "./index.js"
   },
