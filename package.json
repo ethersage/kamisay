@@ -3,6 +3,9 @@
   "version": "0.0.1",
   "description": "npx test kamisay",
   "main": "index.js",
+  "bin": {
+    "kamisay": "./index.js"
+  },
   "repository": {
     "type": "git",
     "url": "https://git@github.com/ethersage/kamisay.git"
