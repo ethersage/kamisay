@@ -1,5 +1,4 @@
-#!/usr/bin/env node
-
+/*
 var bucket = require('@ethersage/quantile').bucket;
 var quantile = require('@ethersage/quantile').quantile;
 
@@ -12,3 +11,6 @@ console.log(
   quantile(3, [5, 6, 7, 8, 1, 2, 3, 4])); // => [3, 6],
   quantile(3, [5, 6, 5, 3, 1, 2, 3, 4])); // => [3, 5],
 );
+*/
+
+console.log('test');
