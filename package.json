@@ -13,6 +13,6 @@
   "author": "ethersage <jmkaminetsky@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "cowsay": "1.4.0"
+    "@ethersage/quantile": "0.0.3"
   }
 }
