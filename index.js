@@ -1,1 +1,3 @@
-console.log('test');
+#!/usr/bin/env node
+
+console.log('kamisay');
